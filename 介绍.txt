@@ -1,0 +1,3 @@
+使用前配置好config文件的信息
+然后执行一下
+config/db_conn.php创建数据库
